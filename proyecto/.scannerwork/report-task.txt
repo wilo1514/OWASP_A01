@@ -1,0 +1,6 @@
+projectKey=proyectof
+serverUrl=http://192.168.56.2:9000
+serverVersion=8.3.0.34182
+dashboardUrl=http://192.168.56.2:9000/dashboard?id=proyectof
+ceTaskId=AYwnNg4oa6Kl45hdBgg1
+ceTaskUrl=http://192.168.56.2:9000/api/ce/task?id=AYwnNg4oa6Kl45hdBgg1
